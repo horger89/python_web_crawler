@@ -1,7 +1,7 @@
-The program will use urllib to read the HTML from the data files below,
+The program will use urllib to read the HTML ,
 extract the href= values from the anchor tags,
 scan for a tag that is in a particular position from the top and follow that link,
-repeat the process a number of times, and report the last name you find.
+repeat the process a number of times, and report the last name found.
 
 Actual problem: Start at: http://py4e-data.dr-chuck.net/known_by_Bailley.html
 Find the link at position 18 (the first name is 1). Follow that link.
